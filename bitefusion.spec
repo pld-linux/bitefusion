@@ -2,12 +2,14 @@ Summary:	A snake game
 Summary(pl):	Gra typu w±¿
 Name:		bitefusion
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		X11/Applications/Games
 Source0:	http://www.junoplay.com/files/%{name}-%{version}.tar.gz
 # Source0-md5:	d7bc933c3363a76b4cb3eeb2a4f33b40
 URL:		http://www.junoplay.com/
+BuildRequires:  autoconf
+BuildRequires:  automake
 BuildRequires:	SDL-devel >= 1.2
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
