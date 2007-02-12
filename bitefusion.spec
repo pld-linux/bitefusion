@@ -1,5 +1,5 @@
 Summary:	A snake game
-Summary(pl):	Gra typu w±¿
+Summary(pl.UTF-8):   Gra typu wÄ…Å¼
 Name:		bitefusion
 Version:	1.0.1
 Release:	2
@@ -18,9 +18,9 @@ A snake game with 15 levels. Great if you need to shut off your brain
 for a few minutes and occupy your hands in the meantime. Guaranteed no
 adrenaline rush!
 
-%description -l pl
-Gra typu w±¿ z 15 poziomami. Spróbuj wysiliæ swój umys³ na parê minut
-i w miêdzyczasie pracowaæ rêkami. Gwarantowana porz±dna dawka
+%description -l pl.UTF-8
+Gra typu wÄ…Å¼ z 15 poziomami. SprÃ³buj wysiliÄ‡ swÃ³j umysÅ‚ na parÄ™ minut
+i w miÄ™dzyczasie pracowaÄ‡ rÄ™kami. Gwarantowana porzÄ…dna dawka
 adrenaliny!
 
 %prep
