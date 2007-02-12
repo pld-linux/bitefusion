@@ -1,5 +1,5 @@
 Summary:	A snake game
-Summary(pl.UTF-8):   Gra typu wąż
+Summary(pl.UTF-8):	Gra typu wąż
 Name:		bitefusion
 Version:	1.0.1
 Release:	2
